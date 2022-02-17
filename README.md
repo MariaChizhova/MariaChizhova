@@ -5,6 +5,11 @@
 * :computer: Ex-STEP intern at Google
 * 📫 How to reach me: `mariachizhova17@gmail.com` or `@machizhova` in Telegram
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariaChizhova&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MariaChizhova&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=monokai)
+
+
 <!--
 **MariaChizhova/MariaChizhova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +23,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MariaChizhova&theme=nord_bright)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=nord_bright)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 -->
