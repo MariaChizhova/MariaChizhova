@@ -1,9 +1,10 @@
-### Hi there 👋
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there+👋)](https://git.io/typing-svg)
 
 * 👋 My name is Masha. I'm from Belarus 
-* 👨🏻‍💻 I’m  currently a 3rd-year student majoring in Applied Mathematics and Computer Science in the Higher School of Economics in Saint-Petersburg, Russia.
+* 👨🏻‍💻 Computer Science student in the Higher School of Economics in Saint-Petersburg, Russia.
 * :computer: Ex-STEP intern at Google
 * 📫 How to reach me: `mariachizhova17@gmail.com` or `@machizhova` in Telegram
+
 <!--
 **MariaChizhova/MariaChizhova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MariaChizhova&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=nord_bright)
 -->
