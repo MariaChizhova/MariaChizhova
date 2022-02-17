@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+* 👋 My name is Masha. I'm from Belarus 
+* 👨🏻‍💻 I’m  currently a 3rd-year student majoring in Applied Mathematics and Computer Science in the Higher School of Economics in Saint-Petersburg, Russia.
+* :computer: Ex-STEP intern at Google
+* 📫 How to reach me: `mariachizhova17@gmail.com` or `@machizhova` in Telegram
 <!--
 **MariaChizhova/MariaChizhova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
