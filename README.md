@@ -5,6 +5,8 @@
 * :computer: Ex-STEP intern at Google
 * 📫 How to reach me: `mariachizhova17@gmail.com` or `@machizhova` in Telegram
 
+![Snake animation](https://github.com/MariaChizhova/MariaChizhova/blob/output/github-snake.svg)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariaChizhova&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MariaChizhova&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=monokai)
