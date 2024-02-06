@@ -1,9 +1,10 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there+👋)](https://git.io/typing-svg)
 
 * 👋 My name is Masha. I'm from Belarus 
-* 👨🏻‍💻 Computer Science student in the Higher School of Economics in Saint-Petersburg, Russia.
+* 👨🏻‍💻 Graduated with Computer Science degree from the Higher School of Economics in Saint-Petersburg, Russia.
 * :computer: Ex-STEP intern at Google (June - September 2021)
 * 💻 Ex-SRE intern at Google (October 2022 - January 2023)
+* 💻 Currently working as a software engineer at Google London
 * 📫 How to reach me: `mariachizhova17@gmail.com` or `@machizhova` in Telegram
 
 ![Snake animation](https://github.com/MariaChizhova/MariaChizhova/blob/output/github-snake.svg)
